@@ -1,9 +1,9 @@
 # Delicious
 Aplikasi berbasis web menggunakan OOP PHP, berfungsi untuk memanajemen proses bisnis sederhana pada restoran.
 
-##Pengguna dan informasinya:
+## Pengguna dan informasinya:
 Seluruh akun yang terdaftar pada database memiliki password 'qwerty'.
-Untuk akun pelanggan bisa ditambahkan melalui akun kasir.
+Untuk akun pelanggan bisa ditambahkan melalui proses register pada sistem.
 - Owner
 Email: owner@delicious.com
 - Admin
